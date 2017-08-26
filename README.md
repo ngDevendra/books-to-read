@@ -3,7 +3,7 @@ List of books I need to read
 
 
 ## Objectville
-* [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title) **Finished**
+* [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title) **(Finished)**
 * [The Code Book - Simon Singh](http://www.goodreads.com/book/show/17994.The_Code_Book)
 * [Refactoring – Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503755218&sr=8-1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship)
@@ -18,5 +18,5 @@ List of books I need to read
 * [The Art of Readable Code](https://www.amazon.in/dp/935023954X/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I25YD70P5CQ1PB)
 
 
-**Be a better person**
+## Be a better person
 * [Notes to Myself APJ Abdul Kalam](https://www.amazon.in/dp/8193284801/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I2CQKA9112FSJF)
