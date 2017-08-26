@@ -16,7 +16,7 @@ List of books I need to read
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1503755381&sr=8-1&keywords=Domain-Driven+Design%3A+Tackling+Complexity+in+the+Heart+of+Software)
 * [Test Driven Development: By Example](https://www.amazon.in/Test-Driven-Development-Kent-Beck/dp/8131715957/ref=sr_1_1?ie=UTF8&qid=1503755447&sr=8-1&keywords=Test+Driven+Development%3A+By+Example)
 * [Extreme Programming Explained: Embrace Change – Bookk by Kent Beck](https://www.amazon.in/Extreme-Programming-Explained-Embrace-Change/dp/8131704513/ref=sr_1_1?ie=UTF8&qid=1503755477&sr=8-1&keywords=Extreme+Programming+Explained%3A+Embrace+Change)
-* [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI)
+* [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI)**(Currently reading)**
 * [Peeling Design Patterns: For Beginners and Interviews](https://www.amazon.in/dp/8192107523/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=IXU6YDN0XGJRV)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.in/dp/8131794024/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I201RIWK8RM2K5)
 * [The Art of Readable Code](https://www.amazon.in/dp/935023954X/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I25YD70P5CQ1PB)
