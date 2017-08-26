@@ -4,7 +4,7 @@ List of books I need to read
 
 **Backlog**
 * [The Code Book - Simon Singh](http://www.goodreads.com/book/show/17994.The_Code_Book)
-* [Refactoring – Improving the Design of Existing Code] ()
+* [Refactoring – Improving the Design of Existing Code] (https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship] ()
 * [Growing Object-Oriented Software Guided by Tests] ()
 * [Structure and Interpretation of Computer Programs] ()
