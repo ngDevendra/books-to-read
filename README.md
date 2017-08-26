@@ -2,8 +2,12 @@
 List of books I need to read
 
 
-## Objectville
+## Technology Town
 * [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title) **(Finished)**
+* [Design Patterns](https://www.amazon.in/Design-Patterns-Erich-Gamma/dp/9332555400/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) **(Finished)**
+* [Head First Object-Oriented Analysis & Design](https://www.amazon.in/Head-First-Object-Oriented-Analysis-Design/dp/8184042213/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) **(Finished)**
+* [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) **(Finished)**
+* [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) **(Finished)**
 * [The Code Book - Simon Singh](http://www.goodreads.com/book/show/17994.The_Code_Book)
 * [Refactoring – Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503755218&sr=8-1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship)
