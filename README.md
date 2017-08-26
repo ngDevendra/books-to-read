@@ -24,7 +24,7 @@ List of books I need to read
 
 
 ## Be a better person
-* [Thinking, Fast and Slow](https://www.amazon.in/Thinking-Fast-Penguin-Press-Non-Fiction/dp/0141033576/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Thinking, Fast and Slow](https://www.amazon.in/Thinking-Fast-Penguin-Press-Non-Fiction/dp/0141033576/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) **(Currently reading)**
 * [Notes to Myself APJ Abdul Kalam](https://www.amazon.in/dp/8193284801/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I2CQKA9112FSJF)
 * [Autobiography of a Yogi](https://www.amazon.in/dp/8190256203/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YEV5LF3HPU6G)
 * [The Way of Zen](https://www.amazon.in/dp/0375705104/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=II599Z8QQHFP7)
