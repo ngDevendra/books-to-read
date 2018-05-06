@@ -43,3 +43,7 @@ List of books I need to read
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.in/gp/product/0349413681/ref=s9_acsd_ri_bw_c_x_20_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_i=8880812031)
 * [Without Fear - By Kuldip Nayar](https://www.amazon.in/Without-Fear-Kuldip-Nayar/dp/9350292203?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&portal-device-attributes=desktop)
 * [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://www.amazon.in/Find-Your-Why-Simon-Sinek/dp/0241279267/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) 
+* [Inner Engineering: A Yogi's Guide to Joy](https://www.amazon.in/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) 
+* [Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment](https://www.amazon.in/Authentic-Happiness-Psychology-Potential-Fulfillment/dp/0743222989?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a0eb1efc-8fb7-4718-b3ad-8e2580005b12) 
+* [Hinduism and Nature](https://www.amazon.in/Hinduism-Nature-Krishna-Nanditha/dp/0143427830) 
+
