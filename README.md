@@ -1,6 +1,4 @@
 # Books to read
-List of books I need to read
-
 
 ## Technology Town
 * [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title) 
