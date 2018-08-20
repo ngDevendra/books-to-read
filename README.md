@@ -46,4 +46,5 @@
 * [Hinduism and Nature](https://www.amazon.in/Hinduism-Nature-Krishna-Nanditha/dp/0143427830)
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking ](https://www.amazon.in/Quiet-power-introverts-world-talking/dp/0141029196/ref=sr_1_1?ie=UTF8&qid=1534739431&sr=8-1&keywords=Quiet%3A+The+Power+of+Introverts+in+a+World+That+Can%27t+Stop+Talking)
 * [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=sr_1_1?ie=UTF8&qid=1534740309&sr=8-1&keywords=Sapiens%3A+A+Brief+History+of+Humankind)
+* [Learned Optimism: How to Change Your Mind and Your Life](https://www.amazon.in/Learned-Optimism-Change-Your-Vintage/dp/1400078393/ref=sr_1_1?ie=UTF8&qid=1534740430&sr=8-1&keywords=learned+optimism)
 
