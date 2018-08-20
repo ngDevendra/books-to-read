@@ -43,5 +43,7 @@
 * [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://www.amazon.in/Find-Your-Why-Simon-Sinek/dp/0241279267/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) 
 * [Inner Engineering: A Yogi's Guide to Joy](https://www.amazon.in/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) **(Currently reading)** 
 * [Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment](https://www.amazon.in/Authentic-Happiness-Psychology-Potential-Fulfillment/dp/0743222989?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a0eb1efc-8fb7-4718-b3ad-8e2580005b12) 
-* [Hinduism and Nature](https://www.amazon.in/Hinduism-Nature-Krishna-Nanditha/dp/0143427830) 
+* [Hinduism and Nature](https://www.amazon.in/Hinduism-Nature-Krishna-Nanditha/dp/0143427830)
+* [Quiet: The Power of Introverts in a World That Can't Stop Talking ](https://www.amazon.in/Quiet-power-introverts-world-talking/dp/0141029196/ref=sr_1_1?ie=UTF8&qid=1534739431&sr=8-1&keywords=Quiet%3A+The+Power+of+Introverts+in+a+World+That+Can%27t+Stop+Talking)
+* [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=sr_1_1?ie=UTF8&qid=1534740309&sr=8-1&keywords=Sapiens%3A+A+Brief+History+of+Humankind)
 
