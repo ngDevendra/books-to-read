@@ -1,24 +1,50 @@
 # Books to read
 
 ## Technology Town
+
+
+
+
+
+## Architecture
+* [Patterns of Enterprise Application Architecture](https://www.amazon.in/dp/8131794024/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I201RIWK8RM2K5)
+* [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI) [X]
+* [Peeling Design Patterns: For Beginners and Interviews](https://www.amazon.in/dp/8192107523/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=IXU6YDN0XGJRV)
+
+## Java 
+* [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
+* [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
+
+
+## Spring Frameworks
+
+
+## Database
+* [Designing Data Intensive Application](https://github.com/wx-chevalier/Awesome-CS-Books/blob/master/Infrastructure/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems.pdf)
+
+
+## Software Development
 * [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title) [X] 
 * [Design Patterns](https://www.amazon.in/Design-Patterns-Erich-Gamma/dp/9332555400/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
 * [Head First Object-Oriented Analysis & Design](https://www.amazon.in/Head-First-Object-Oriented-Analysis-Design/dp/8184042213/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
-* [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
-* [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
-* [You Don't Know JS: this & Object Prototypes](https://www.amazon.in/dp/9351107248/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I3GK0E8LON7ZFB) [X]
 * [The Code Book - Simon Singh](http://www.goodreads.com/book/show/17994.The_Code_Book)
 * [Refactoring – Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503755218&sr=8-1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship)
 * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
-* [Structure and Interpretation of Computer Programs](https://www.amazon.in/Structure-Interpretation-Computer-Programs-PUL/dp/8173715270/ref=sr_1_1?ie=UTF8&qid=1503755347&sr=8-1&keywords=Structure+and+Interpretation+of+Computer+Programs)
+
+
+## Domain Driven Design
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1503755381&sr=8-1&keywords=Domain-Driven+Design%3A+Tackling+Complexity+in+the+Heart+of+Software)
+
+## Other
+* [You Don't Know JS: this & Object Prototypes](https://www.amazon.in/dp/9351107248/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I3GK0E8LON7ZFB) [X]
+* [The Art of Readable Code](https://www.amazon.in/dp/935023954X/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I25YD70P5CQ1PB)
 * [Test Driven Development: By Example](https://www.amazon.in/Test-Driven-Development-Kent-Beck/dp/8131715957/ref=sr_1_1?ie=UTF8&qid=1503755447&sr=8-1&keywords=Test+Driven+Development%3A+By+Example)
 * [Extreme Programming Explained: Embrace Change – Bookk by Kent Beck](https://www.amazon.in/Extreme-Programming-Explained-Embrace-Change/dp/8131704513/ref=sr_1_1?ie=UTF8&qid=1503755477&sr=8-1&keywords=Extreme+Programming+Explained%3A+Embrace+Change)
-* [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI) [X]
-* [Peeling Design Patterns: For Beginners and Interviews](https://www.amazon.in/dp/8192107523/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=IXU6YDN0XGJRV)
-* [Patterns of Enterprise Application Architecture](https://www.amazon.in/dp/8131794024/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I201RIWK8RM2K5)
-* [The Art of Readable Code](https://www.amazon.in/dp/935023954X/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I25YD70P5CQ1PB)
+* [Structure and Interpretation of Computer Programs](https://www.amazon.in/Structure-Interpretation-Computer-Programs-PUL/dp/8173715270/ref=sr_1_1?ie=UTF8&qid=1503755347&sr=8-1&keywords=Structure+and+Interpretation+of+Computer+Programs)
+
+
+
 
 
 ## Be a better person
@@ -47,4 +73,6 @@
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking ](https://www.amazon.in/Quiet-power-introverts-world-talking/dp/0141029196/ref=sr_1_1?ie=UTF8&qid=1534739431&sr=8-1&keywords=Quiet%3A+The+Power+of+Introverts+in+a+World+That+Can%27t+Stop+Talking)
 * [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=sr_1_1?ie=UTF8&qid=1534740309&sr=8-1&keywords=Sapiens%3A+A+Brief+History+of+Humankind)
 * [Learned Optimism: How to Change Your Mind and Your Life](https://www.amazon.in/Learned-Optimism-Change-Your-Vintage/dp/1400078393/ref=sr_1_1?ie=UTF8&qid=1534740430&sr=8-1&keywords=learned+optimism)
+* [Reflection - Swami Vivekanand]()
+* [The Greatness of Saturn]()
 
