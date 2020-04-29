@@ -1,10 +1,5 @@
 # Books to read
 
-## Technology Town
-
-
-
-
 
 ## Architecture
 * [Patterns of Enterprise Application Architecture](https://www.amazon.in/dp/8131794024/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I201RIWK8RM2K5)
