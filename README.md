@@ -3,12 +3,12 @@
 
 ## Architecture
 * [Patterns of Enterprise Application Architecture](https://www.amazon.in/dp/8131794024/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I201RIWK8RM2K5)
-* [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI) [X]
+* [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI)
 * [Peeling Design Patterns: For Beginners and Interviews](https://www.amazon.in/dp/8192107523/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=IXU6YDN0XGJRV)
 
 ## Java 
-* [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
-* [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
+* [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
+* [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
 
 
 ## Spring Frameworks
@@ -19,9 +19,9 @@
 
 
 ## Software Development
-* [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title) [X] 
-* [Design Patterns](https://www.amazon.in/Design-Patterns-Erich-Gamma/dp/9332555400/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
-* [Head First Object-Oriented Analysis & Design](https://www.amazon.in/Head-First-Object-Oriented-Analysis-Design/dp/8184042213/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1) [X]
+* [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title)
+* [Design Patterns](https://www.amazon.in/Design-Patterns-Erich-Gamma/dp/9332555400/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
+* [Head First Object-Oriented Analysis & Design](https://www.amazon.in/Head-First-Object-Oriented-Analysis-Design/dp/8184042213/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
 * [The Code Book - Simon Singh](http://www.goodreads.com/book/show/17994.The_Code_Book)
 * [Refactoring – Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503755218&sr=8-1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship)
@@ -32,7 +32,7 @@
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1503755381&sr=8-1&keywords=Domain-Driven+Design%3A+Tackling+Complexity+in+the+Heart+of+Software)
 
 ## Other
-* [You Don't Know JS: this & Object Prototypes](https://www.amazon.in/dp/9351107248/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I3GK0E8LON7ZFB) [X]
+* [You Don't Know JS: this & Object Prototypes](https://www.amazon.in/dp/9351107248/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I3GK0E8LON7ZFB)
 * [The Art of Readable Code](https://www.amazon.in/dp/935023954X/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I25YD70P5CQ1PB)
 * [Test Driven Development: By Example](https://www.amazon.in/Test-Driven-Development-Kent-Beck/dp/8131715957/ref=sr_1_1?ie=UTF8&qid=1503755447&sr=8-1&keywords=Test+Driven+Development%3A+By+Example)
 * [Extreme Programming Explained: Embrace Change – Bookk by Kent Beck](https://www.amazon.in/Extreme-Programming-Explained-Embrace-Change/dp/8131704513/ref=sr_1_1?ie=UTF8&qid=1503755477&sr=8-1&keywords=Extreme+Programming+Explained%3A+Embrace+Change)
@@ -57,12 +57,12 @@
 * [Playing It My Way](https://www.amazon.in/gp/product/1473605172/ref=s9_acsd_ri_bw_c_x_17_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-6&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=20ba9883-3544-4a28-ae26-ecd32642d011&pf_rd_p=20ba9883-3544-4a28-ae26-ecd32642d011&pf_rd_i=8880812031)
 * [Mossad ](https://www.amazon.in/gp/product/8184958455/ref=s9_acsd_ri_bw_c_x_14_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-6&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=20ba9883-3544-4a28-ae26-ecd32642d011&pf_rd_p=20ba9883-3544-4a28-ae26-ecd32642d011&pf_rd_i=8880812031)
 * [Zero to One](https://www.amazon.in/gp/product/B00KHX0II4/ref=s9_acsd_ri_bw_c_x_8_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_i=8880812031) [X] 
-* [Stay Hungry Stay Foolish](https://www.amazon.in/gp/product/B008R86NJ4/ref=s9_acsd_ri_bw_c_x_18_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_i=8880812031) [X]
-* [Connect the dots](https://www.amazon.in/Connect-Dots-Rashmi-Bansal/dp/8191073048/ref=tmm_acd_swatch_0?_encoding=UTF8&qid=&sr=) (Recommends Audio book) [X]
+* [Stay Hungry Stay Foolish](https://www.amazon.in/gp/product/B008R86NJ4/ref=s9_acsd_ri_bw_c_x_18_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_i=8880812031)
+* [Connect the dots](https://www.amazon.in/Connect-Dots-Rashmi-Bansal/dp/8191073048/ref=tmm_acd_swatch_0?_encoding=UTF8&qid=&sr=) (Recommends Audio book)
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.in/gp/product/0349413681/ref=s9_acsd_ri_bw_c_x_20_w?pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-7&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_r=RYH23PNZNDRDWJ6F3PX8&pf_rd_t=101&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_p=745baf54-5e4d-40b1-8fd3-370f524e1d14&pf_rd_i=8880812031)
 * [Without Fear - By Kuldip Nayar](https://www.amazon.in/Without-Fear-Kuldip-Nayar/dp/9350292203?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&portal-device-attributes=desktop)
 * [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://www.amazon.in/Find-Your-Why-Simon-Sinek/dp/0241279267/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) 
-* [Inner Engineering: A Yogi's Guide to Joy](https://www.amazon.in/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) **(Currently reading)** 
+* [Inner Engineering: A Yogi's Guide to Joy](https://www.amazon.in/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment](https://www.amazon.in/Authentic-Happiness-Psychology-Potential-Fulfillment/dp/0743222989?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a0eb1efc-8fb7-4718-b3ad-8e2580005b12) 
 * [Hinduism and Nature](https://www.amazon.in/Hinduism-Nature-Krishna-Nanditha/dp/0143427830)
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking ](https://www.amazon.in/Quiet-power-introverts-world-talking/dp/0141029196/ref=sr_1_1?ie=UTF8&qid=1534739431&sr=8-1&keywords=Quiet%3A+The+Power+of+Introverts+in+a+World+That+Can%27t+Stop+Talking)
