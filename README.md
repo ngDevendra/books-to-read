@@ -12,7 +12,9 @@
 
 
 ## Spring Frameworks
-
+* [Spring in action](https://www.amazon.in/Spring-Action-Manning-Craig-Walls/dp/9351197999/ref=sr_1_2?dchild=1&keywords=spring+in+action&qid=1609241854&sr=8-2)
+* [Spring Security in action](https://www.amazon.in/Spring-Security-Action-Laurentiu-Spilca/dp/1617297739/ref=sr_1_1?crid=2U9SQM0TXDQL2&dchild=1&keywords=spring+security+in+action&qid=1609241863&s=books&sprefix=spring+sec%2Caps%2C351&sr=1-1)
+* [Spring Microservices in action](https://www.amazon.in/Spring-Microservices-Action-John-Carnell/dp/1617293989/ref=sr_1_1?crid=1QUVC0D07GSVI&dchild=1&keywords=spring+microservices+in+action&qid=1609241847&sprefix=spring+micr%2Caps%2C363&sr=8-1)
 
 ## Database
 * [Designing Data Intensive Application](https://github.com/wx-chevalier/Awesome-CS-Books/blob/master/Infrastructure/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems.pdf)
@@ -26,6 +28,7 @@
 * [Refactoring – Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503755218&sr=8-1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship)
 * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
+* [Clean Architecture](https://www.amazon.in/Clean-Architecture-Craftsmans-Software-Structure/dp/935286512X/ref=pd_bxgy_img_3/262-2568847-4308503?_encoding=UTF8&pd_rd_i=935286512X&pd_rd_r=334aaa10-ff48-4289-9f60-6260c98db351&pd_rd_w=73iw1&pd_rd_wg=pSgPI&pf_rd_p=3e9f62d7-4196-4823-b41a-9bba671558ea&pf_rd_r=WWYNJNTQFRTGRNW0SFZK&psc=1&refRID=WWYNJNTQFRTGRNW0SFZK)
 
 
 ## Domain Driven Design
