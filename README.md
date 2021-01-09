@@ -73,24 +73,24 @@
 * [Learned Optimism: How to Change Your Mind and Your Life](https://www.amazon.in/Learned-Optimism-Change-Your-Vintage/dp/1400078393/ref=sr_1_1?ie=UTF8&qid=1534740430&sr=8-1&keywords=learned+optimism)
 * [Reflection - Swami Vivekanand]()
 * [The Greatness of Saturn]()
-* Rework by Jason Fried, David Heinemeier Hansson
-* Better under pressure by Justin Menkes
-* Grit by Angela Duckworth
-* The hard things about hard things by Ben Horowitz
-* Sapiens by Yuval noah harari
-* Tools of the titans by Tim Ferris
-* The trillion dollar coach by Alan Eagle, Eric Schmidt, and Jonathan Rosenberg
-* A guide to the good life by William Braxton Irvine
-* The subtle art of not giving a f*ck by Mark Mason
-* Radical Candor by Kim Scott
-* How will you measure your life by Clayton Christensen, James Allworth, and Karen Dillon
-* Atomic habits by James Clear
-* Man's search for meaning by Viktor Frankl
-* Skin in the game by  Nassim Nicholas Taleb
-* Direct truth by Kapil
-* High growth handbook by Elad Gil
+* Rework
+* Better under pressure
+* Grit
+* The hard things about hard things
+* Sapiens
+* Tools of the titans
+* The trillion dollar coach
+* A guide to the good life
+* The subtle art of not giving a f*ck 
+* Radical Candor 
+* How will you measure your life 
+* Atomic habits
+* Man's search for meaning
+* Skin in the game
+* Direct truth
+* High growth handbook
 * Shoe dog by Phil Knight
-* Love sonnets by Ghalib
-* Chariots of the gods? by Erich von Däniken
-* The fountainhead by Ayn Rand
+* Love sonnets
+* Chariots of the gods?
+* The fountainhead
 
