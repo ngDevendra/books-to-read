@@ -72,8 +72,12 @@
 * [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=sr_1_1?ie=UTF8&qid=1534740309&sr=8-1&keywords=Sapiens%3A+A+Brief+History+of+Humankind)
 * [Learned Optimism: How to Change Your Mind and Your Life](https://www.amazon.in/Learned-Optimism-Change-Your-Vintage/dp/1400078393/ref=sr_1_1?ie=UTF8&qid=1534740430&sr=8-1&keywords=learned+optimism)
 * [Reflection - Swami Vivekanand]()
-* [The Greatness of Saturn]()
-* Rework
+* [The Greatness of Saturn](https://www.amazon.in/Greatness-Saturn-Robert-Svobod/dp/1571780327/ref=sr_1_1_sspa?crid=21MG9CTMW3AED&dchild=1&keywords=greatness+of+saturn&qid=1610163055&s=books&sprefix=greatness+of%2Cstripbooks%2C325&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDV1pVSko0MkQ3NkUmZW5jcnlwdGVkSWQ9QTAzMDI4MjcxR1FFN0NHTUtOT0I5JmVuY3J5cHRlZEFkSWQ9QTAxNzMyNTIzQjlSNjNTWjJCMEpWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+* [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.amazon.in/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6)
+* [Range](https://www.amazon.in/Range-Generalists-Triumph-Specialized-World/dp/1509843507)
+* [Ikigai](https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X)
+* [Learn to earn](https://www.amazon.in/Learn-Earn-Beginners-Investing-Business/dp/0684811634)
+* [Rework](https://www.amazon.in/Rework-Jason-Fried/dp/0307463745)
 * Better under pressure
 * Grit
 * The hard things about hard things
