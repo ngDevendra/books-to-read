@@ -45,7 +45,7 @@
 
 
 
-## Be a better person
+## Personal Collection
 * [Thinking, Fast and Slow](https://www.amazon.in/Thinking-Fast-Penguin-Press-Non-Fiction/dp/0141033576/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) 
 * [Notes to Myself APJ Abdul Kalam](https://www.amazon.in/dp/8193284801/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I2CQKA9112FSJF)
 * [Autobiography of a Yogi](https://www.amazon.in/dp/8190256203/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YEV5LF3HPU6G)
@@ -73,4 +73,24 @@
 * [Learned Optimism: How to Change Your Mind and Your Life](https://www.amazon.in/Learned-Optimism-Change-Your-Vintage/dp/1400078393/ref=sr_1_1?ie=UTF8&qid=1534740430&sr=8-1&keywords=learned+optimism)
 * [Reflection - Swami Vivekanand]()
 * [The Greatness of Saturn]()
+* Rework by Jason Fried, David Heinemeier Hansson
+* Better under pressure by Justin Menkes
+* Grit by Angela Duckworth
+* The hard things about hard things by Ben Horowitz
+* Sapiens by Yuval noah harari
+* Tools of the titans by Tim Ferris
+* The trillion dollar coach by Alan Eagle, Eric Schmidt, and Jonathan Rosenberg
+* A guide to the good life by William Braxton Irvine
+* The subtle art of not giving a f*ck by Mark Mason
+* Radical Candor by Kim Scott
+* How will you measure your life by Clayton Christensen, James Allworth, and Karen Dillon
+* Atomic habits by James Clear
+* Man's search for meaning by Viktor Frankl
+* Skin in the game by  Nassim Nicholas Taleb
+* Direct truth by Kapil
+* High growth handbook by Elad Gil
+* Shoe dog by Phil Knight
+* Love sonnets by Ghalib
+* Chariots of the gods? by Erich von Däniken
+* The fountainhead by Ayn Rand
 
