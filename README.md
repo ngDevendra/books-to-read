@@ -2,6 +2,8 @@
 
 
 ## Architecture
+* [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.in/Fundamentals-Software-Architecture-Engineering-Paperback/dp/9352139623/ref=sr_1_1?crid=17YXKOYEHEEP4&keywords=fundamental+of+architecture&qid=1646374428&sprefix=fundamental%2520of%2520architectur%2Caps%2C235&sr=8-1)
+* [Clean Architecture](https://www.amazon.in/gp/product/B075LRM681/ref=dbs_a_def_rwt_bibl_vppi_i2)
 * [Patterns of Enterprise Application Architecture](https://www.amazon.in/dp/8131794024/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I201RIWK8RM2K5)
 * [Building Microservices](https://www.amazon.in/dp/9352130693/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I1YBOBHKUFI7YI)
 * [Peeling Design Patterns: For Beginners and Interviews](https://www.amazon.in/dp/8192107523/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=IXU6YDN0XGJRV)
@@ -9,7 +11,6 @@
 ## Java 
 * [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
 * [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
-
 
 ## Spring Frameworks
 * [Spring in action](https://www.amazon.in/Spring-Action-Manning-Craig-Walls/dp/9351197999/ref=sr_1_2?dchild=1&keywords=spring+in+action&qid=1609241854&sr=8-2)
@@ -19,7 +20,6 @@
 ## Database
 * [Designing Data Intensive Application](https://github.com/wx-chevalier/Awesome-CS-Books/blob/master/Infrastructure/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems.pdf)
 
-
 ## Software Development
 * [Head First Design Patterns](https://www.amazon.in/dp/9352132777/ref=wl_mb_recs_4_title)
 * [Design Patterns](https://www.amazon.in/Design-Patterns-Erich-Gamma/dp/9332555400/ref=pd_sim_14_6?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
@@ -28,11 +28,13 @@
 * [Refactoring – Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.in/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503755218&sr=8-1&keywords=Clean+Code%3A+A+Handbook+of+Agile+Software+Craftsmanship)
 * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
-* [Clean Architecture](https://www.amazon.in/Clean-Architecture-Craftsmans-Software-Structure/dp/935286512X/ref=pd_bxgy_img_3/262-2568847-4308503?_encoding=UTF8&pd_rd_i=935286512X&pd_rd_r=334aaa10-ff48-4289-9f60-6260c98db351&pd_rd_w=73iw1&pd_rd_wg=pSgPI&pf_rd_p=3e9f62d7-4196-4823-b41a-9bba671558ea&pf_rd_r=WWYNJNTQFRTGRNW0SFZK&psc=1&refRID=WWYNJNTQFRTGRNW0SFZK)
 
 
 ## Domain Driven Design
+* [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+* [Domain-Driven Design Distilled](https://www.amazon.in/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1?ie=UTF8&qid=1503755381&sr=8-1&keywords=Domain-Driven+Design%3A+Tackling+Complexity+in+the+Heart+of+Software)
+
 
 ## Other
 * [You Don't Know JS: this & Object Prototypes](https://www.amazon.in/dp/9351107248/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=38BIC0XKWN4AM&coliid=I3GK0E8LON7ZFB)
@@ -40,8 +42,6 @@
 * [Test Driven Development: By Example](https://www.amazon.in/Test-Driven-Development-Kent-Beck/dp/8131715957/ref=sr_1_1?ie=UTF8&qid=1503755447&sr=8-1&keywords=Test+Driven+Development%3A+By+Example)
 * [Extreme Programming Explained: Embrace Change – Bookk by Kent Beck](https://www.amazon.in/Extreme-Programming-Explained-Embrace-Change/dp/8131704513/ref=sr_1_1?ie=UTF8&qid=1503755477&sr=8-1&keywords=Extreme+Programming+Explained%3A+Embrace+Change)
 * [Structure and Interpretation of Computer Programs](https://www.amazon.in/Structure-Interpretation-Computer-Programs-PUL/dp/8173715270/ref=sr_1_1?ie=UTF8&qid=1503755347&sr=8-1&keywords=Structure+and+Interpretation+of+Computer+Programs)
-
-
 
 
 
