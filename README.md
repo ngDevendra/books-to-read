@@ -17,7 +17,7 @@ Note : These are more than sufficient algo books to get started. If you are look
 * [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
 * [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
 
-# JAVASCRIPT
+## Javascript
 * [HeadFirst Javascript](https://github.com/judearasu/Coursez/blob/master/pdf/Head%20First%20JavaScript%20Programming%20-%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf)
 * [JavaScript: The Definitive Guide.](https://github.com/camoverride/lit/blob/master/Javascript-The-Definitive-Guide.pdf)
 * [You don't know JS - First edition - Free PDFs](https://github.com/thanhlmm/You-dont-know-JS)
