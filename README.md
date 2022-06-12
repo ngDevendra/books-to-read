@@ -1,5 +1,10 @@
 # Books to read
 
+## Algorithms
+* [Grokking Algorithms](https://github.com/camoverride/lit/blob/master/Grokking-Algorithms.pdf)
+* [Introduction to Algorithms](https://github.com/camoverride/lit/blob/master/Introduction-to-Algorithms.pdf)
+
+Note : These are more than sufficient algo books to get started. If you are looking for something specific, these books are not best suited.
 
 ## Architecture
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.in/Fundamentals-Software-Architecture-Engineering-Paperback/dp/9352139623/ref=sr_1_1?crid=17YXKOYEHEEP4&keywords=fundamental+of+architecture&qid=1646374428&sprefix=fundamental%2520of%2520architectur%2Caps%2C235&sr=8-1)
@@ -11,6 +16,14 @@
 ## Java 
 * [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-1-Goetz/dp/9332576521/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
 * [Head First Servlets and JSP](https://www.amazon.in/Head-First-Servlets-JSP-Basham/dp/8184044976/ref=pd_sim_14_8?_encoding=UTF8&psc=1&refRID=FX2TQQ39GNQBBVK47BJ1)
+
+# JAVASCRIPT
+* [HeadFirst Javascript](https://github.com/judearasu/Coursez/blob/master/pdf/Head%20First%20JavaScript%20Programming%20-%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf)
+* [JavaScript: The Definitive Guide.](https://github.com/camoverride/lit/blob/master/Javascript-The-Definitive-Guide.pdf)
+* [You don't know JS - First edition - Free PDFs](https://github.com/thanhlmm/You-dont-know-JS)
+* [You don't know JS - First edition - Online Reading](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+* [You don't know JS - Second edition - Online Reading](https://github.com/getify/You-Dont-Know-JS)
+ 
 
 ## Spring Frameworks
 * [Spring in action](https://www.amazon.in/Spring-Action-Manning-Craig-Walls/dp/9351197999/ref=sr_1_2?dchild=1&keywords=spring+in+action&qid=1609241854&sr=8-2)
